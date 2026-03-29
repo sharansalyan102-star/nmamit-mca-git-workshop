@@ -5,3 +5,4 @@ Branch: MCA
 Semester:  2nd 
 Favorite Programming Language: Python / Java / JavaScript / etc.
 One thing I want to learn today: ___
+This is my commit exercise
